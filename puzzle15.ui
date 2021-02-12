@@ -567,14 +567,15 @@ color: rgb(40, 203, 239);
      </size>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(40, 203, 239);
+     <string notr="true">
+background-color: rgb(38, 14, 171);
+border-radius:10px;
+font: 700 34pt &quot;Segoe UI&quot;;
+color: rgb(40, 203, 239);
 </string>
     </property>
     <property name="text">
      <string/>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
     </property>
    </widget>
   </widget>
